@@ -32,7 +32,7 @@ export default defineEventHandler(async (event) => {
       event,
       status: 401,
       data: {
-        error: 'Invalid or missing token',
+        error: 'Invalid or missing token, sowwy! :3',
       },
     });
 
