@@ -1,7 +1,9 @@
 # simple-proxy
 
 Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app)/[P-Stream](https://pstream.org).
+
 [As of March 6, 2026, P-Stream has been taken down, these links are invalid]
+
 Read the docs at https://docs.pstream.org/proxy/introduction
 
 ---
